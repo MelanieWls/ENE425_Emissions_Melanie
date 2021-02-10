@@ -44,7 +44,9 @@ The Methodology team kept adding methods to the Section 2 in the README file._
 
 ### WEEK 7 - Task 3: App design
 Color suggestions:
+
 468C98
+
 C8D5B9
 
 ### WEEK 8 - Task 4: App deployment
