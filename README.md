@@ -51,6 +51,8 @@ Background:
 
 C8D5B9
 
+A1D2CE
+
 Buttons:
 
 Borders:
