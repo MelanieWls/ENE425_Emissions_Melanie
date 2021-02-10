@@ -53,6 +53,8 @@ C8D5B9
 
 A1D2CE
 
+7FC6A4
+
 Buttons:
 
 Borders:
