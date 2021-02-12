@@ -55,9 +55,15 @@ A1D2CE
 
 7FC6A4
 
+CEFF1A
+
 Buttons:
 
+73A6AD
+
 Borders:
+
+F0B7B3
 
 
 ### WEEK 8 - Task 4: App deployment
